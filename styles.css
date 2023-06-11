@@ -5,6 +5,9 @@
 	padding:50px;
 	background-color:lightblue;
 	width:300px;
-	margin:50px;
+	margin:20px;
 	outline:1px solid black;
+}
+.container{
+	border:1px solid black;
 }
