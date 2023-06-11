@@ -1,2 +1,10 @@
 
 /* Your CSS Code here. */
+.one{
+	border:15px solid blue;
+	padding:50px;
+	background-color:lightblue;
+	width:300px;
+	margin:50px;
+	outline:1px solid black;
+}
